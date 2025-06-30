@@ -16,6 +16,7 @@ Se utiliza persistencia mediante archivos binarios; arreglos dinámicos y estát
 - Manejo de archivos en modo binario
 - Menús en consola
 - Validaciones básicas
+- Manejo basico de excepciones
 
 ## Estructura del código:
 - `main.c`: punto de entrada
