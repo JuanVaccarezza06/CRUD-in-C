@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1751257463 source:e:\carpetas\tecnicatura programacion\mis proyectos\project with c\flights.c
+	<stdint.h>
+	<stdio.h>
+	"flights.h"
+
+1751260016 source:e:\carpetas\tecnicatura programacion\mis proyectos\project with c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"flights.h"
+	"passengers.h"
+
+1751257472 source:e:\carpetas\tecnicatura programacion\mis proyectos\project with c\passengers.c
+	<stdint.h>
+	<stdio.h>
+	"passengers.h"
+
+1750928506 e:\carpetas\tecnicatura programacion\mis proyectos\project with c\flights.h
+	"passengers.h"
+
+1750928498 e:\carpetas\tecnicatura programacion\mis proyectos\project with c\passengers.h
+
